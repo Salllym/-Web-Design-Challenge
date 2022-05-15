@@ -1,10 +1,12 @@
 # Web Visualization Dashboard
 
-Results from prior analysis done in python-api-challenge are displayed through Github pages using HTML, CSS, and Bootstrap.  
+Create a Visualization Dashboard Website of Weather in 500+ World Cities Relative to the Equator at Different Latitudes Using HTML, CSS and Bootstrap.
+
+To view deployed web appliciation visit: https://salllym.github.io/Web-Design-Challenge/
 
 ### Latitude - Latitude Analysis Dashboard with Attitude ###
 
-A visualization dashboard website is created using visualizations we've created in a past assignment. Specifically, plotting weather data.
+A visualization dashboard website is created using visualizations created in a past assignment. Specifically, plotting weather data.
 
 In building this dashboard, individual pages for each plot and a means is created by which we can navigate between them. These pages will contain the visualizations and their corresponding explanations. There'll also be a landing page, a page where we can see a comparison of all of the plots, and another page where we can view the data used to build them. 
 
