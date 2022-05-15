@@ -1,6 +1,6 @@
 # Web Visualization Dashboard
 
-Create a Visualization Dashboard Website of Weather in 500+ World Cities Relative to the Equator at Different Latitudes Using HTML, CSS and Bootstrap.
+Create a visualization dashboard website of weather in 500+ world cities relative to the equator at different latitudes using HTML, CSS, and Bootstrap.
 
 To view deployed web appliciation visit: https://salllym.github.io/Web-Design-Challenge/
 
